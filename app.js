@@ -43,4 +43,5 @@ pronoun.forEach(pro=>{
   });
 });
 
-domains.forEach(domain=>{console.log(domain)});
+// eslint-disable-next-line no-console
+domains.forEach(domain=>{console.log(domain);});
